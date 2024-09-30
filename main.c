@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 #include "sudoku.h"
 #include "drawSudoku.h"
 #include "raylib.h"
